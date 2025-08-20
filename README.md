@@ -55,10 +55,8 @@ Satu langkah tepat hari ini, bisa menjadi lompatan besar yang mengubah segalanya
     <p><a href="https://www.google.com" target="_blank">Buka Google</a></p>
     <p><a href="https://play.google.com/store/apps/details?id=org.ai.interlinklabs.interlinkId">interlink</a>
       
-    </p>
-    <small>
-      &copy; copyright 2025, by ipul
-    </small>
+    
+
   </p>
 </body>
 </html>
